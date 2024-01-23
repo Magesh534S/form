@@ -1,0 +1,33 @@
+*{
+    font-family: jokerman;
+}
+
+body{
+    background-color: white;
+}
+
+.sect
+{
+    left: 680px;
+    position: absolute;
+    width: 640px;
+    height: 800px;
+   
+}
+.sign{
+    position: absolute;
+    background-color: #0099ff;
+    width: 640px;
+    height:800px;
+    color: rgb(255, 255, 255);
+    padding: 60px;
+}
+
+input{
+    width: 280px;
+    border-radius: 10px;
+}
+
+.row{
+    height: 900px;
+}
